@@ -6,6 +6,18 @@ Tema Neo-Brutalism untuk Pterodactyl Panel.
 ![Blueprint](https://img.shields.io/badge/Blueprint-framework-000000?style=flat-square)
 ![React](https://img.shields.io/badge/React-TypeScript-000000?style=flat-square)
 
+## Showcase
+
+| Dashboard (Light) | Dashboard (Dark) |
+| --- | --- |
+| ![Dashboard light](docs/screenshots/dashboard-light.png) | ![Dashboard dark](docs/screenshots/dashboard-dark.png) |
+
+| Console (Light) | Console (Dark) |
+| --- | --- |
+| ![Console light](docs/screenshots/console-light.png) | ![Console dark](docs/screenshots/console-dark.png) |
+
+![Theme settings](docs/screenshots/theme-settings.png)
+
 ## Fitur
 
 - Gaya neo-brutalism: border tebal, shadow keras, tipografi tebal, tanpa gradasi.
