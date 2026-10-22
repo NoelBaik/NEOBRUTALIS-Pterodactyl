@@ -1,0 +1,28 @@
+
+   INFO  The [public/storage] link has been connected to [storage/app/public].  
+
+
+   INFO  Application is now in maintenance mode.  
+
+
+   INFO  Seeding database.  
+
+
+
+   INFO  Blade templates cached successfully.  
+
+
+   INFO  Configuration cached successfully.  
+
+
+   INFO  Route cache cleared successfully.  
+
+
+   INFO  Application cache cleared successfully.  
+
+Flushed Blueprint stylesheet and scripts cache.
+   INFO  Broadcasting queue restart signal.  
+
+
+   INFO  Application is now live.  
+
