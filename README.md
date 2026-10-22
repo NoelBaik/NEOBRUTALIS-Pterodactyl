@@ -24,6 +24,7 @@ Tema Neo-Brutalism untuk Pterodactyl Panel.
 - Dashboard server dengan kartu status, CPU/RAM/Disk bar.
 - Halaman console, network, files, dan admin panel yang di-restyle.
 - Dark mode toggle.
+- New Page EGG Changer
 - IP dan port diblur secara default — klik untuk membuka.
 
 ## Instalasi
